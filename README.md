@@ -17,3 +17,27 @@ Break-It! is a clean, modern, anime-themed student discussion forum designed wit
 
 ## 📂 Project Structure
 
+
+## 🚀 Live Demo
+
+👉 [Visit Live Site](https://iparthshukla.github.io/Break-It-/)
+
+## 🔧 Tech Stack
+
+- HTML5, CSS3
+- JavaScript (Vanilla JS)
+- Firebase Auth & Firestore
+- GitHub Pages (Hosting)
+
+## 📸 Screenshots
+
+_(Add your screenshots of the website UI here for a better impression)_
+
+## 🙌 Contribute
+
+Feel free to raise issues, suggest features or contribute pull requests. Let’s grow together! 💙
+
+---
+
+**Made with 💖 by [iparthshukla](https://github.com/iparthshukla)**
+
